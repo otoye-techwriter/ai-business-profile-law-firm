@@ -1,0 +1,16 @@
+{
+  "business_name": "Hamilton & Reid LLP",
+  "type": "Business Law Firm",
+  "specializations": [
+    "Commercial Contracts",
+    "Corporate Governance",
+    "Business Formation",
+    "Compliance"
+  ],
+  "hq_location": "Austin, Texas",
+  "regions_served": ["Texas", "Remote (USA)"],
+  "years_in_operation": 18,
+  "pricing_model": ["Hourly", "Fixed Packages", "Subscription"],
+  "llm_ready": true,
+  "last_updated": "2025-11-20"
+}

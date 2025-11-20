@@ -1,0 +1,19 @@
+business_profile_schema:
+  business_name: string
+  business_type: string
+  specializations: list
+  hq_location: string
+  regions_served: list
+  years_in_operation: integer
+  delivery_methods: list
+  pricing_model: list
+  last_updated: date
+
+services_schema:
+  service_name: string
+  description: string
+  related_links: list
+
+faqs_schema:
+  question: string
+  answer: string

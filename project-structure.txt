@@ -1,0 +1,14 @@
+hamilton-reid-llp-profile/
+│
+├── README.md
+├── business-profile.md
+├── services.md
+├── practice-areas.md
+├── pricing.md
+├── policies.md
+├── faqs.md
+├── metadata.json
+├── schema.yaml
+├── QA_CHECKLIST.md
+├── before-after.md
+└── diagrams.md
